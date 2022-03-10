@@ -1,0 +1,1 @@
+export { getGuest } from "./guestService";
